@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Sadiullina.Tests/Sadiullina.Tests.csproj" Id="140fc6da-2556-47fe-a3ce-8b033d70c391" />
+  <Project Path="Sadiullina/Sadiullina.csproj" />
+  <Project Path="SadiullinaLibrary/SadiullinaLibrary.csproj" />
+</Solution>
